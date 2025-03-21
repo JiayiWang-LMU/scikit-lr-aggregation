@@ -14,7 +14,7 @@ Scikit-lr requires:
     * Scikit-learn (>= 0.23.0)
     
 ## Credits
-This project builds on the [scikit-lr](https:github.com/alfaro96/scikit-lr) package. 
+This project builds on the [scikit-lr](https://github.com/alfaro96/scikit-lr) package. 
 
 ## License
 The code is released under the MIT license.
